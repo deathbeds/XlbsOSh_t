@@ -9,4 +9,7 @@
 __version__ = "12.09.68"
 
 with __import__('pidgy').pidgyLoader():
-  from . import readme
+    from . import readme
+    
+with __import__('importnb').Notebook():
+    from . import util
