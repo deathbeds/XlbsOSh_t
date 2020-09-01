@@ -1,9 +1,9 @@
-# ![10lb] 
+# [![10lb]][binder]
 
 ![](./xlbs/img/Demolition.jpg)
 
 ## [binder]
-
+`
 a presentation by [deathbeds], formerly the nick & tony show.
 
 ## what to expect
